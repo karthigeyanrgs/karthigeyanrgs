@@ -13,6 +13,8 @@ This derived knowledge helped me create stabilized and consistent tools with the
 
 💬 𝗔𝘂𝗱𝗶𝘁𝗲𝗱 𝗰𝗼𝘂𝗿𝘀𝗲𝘀: Kinetic description of multi-agent systems, Computational differentiation, Non-equilibrium gas dynamics, Stochastic numeric.
 
+𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐭𝐚𝐤𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐭𝐢𝐦𝐞 𝐭𝐨 𝐫𝐞𝐚𝐝 𝐮𝐧𝐭𝐢𝐥 𝐧𝐨𝐰. 🙏
+
 <!--
 **karthigeyanrgs/karthigeyanrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
