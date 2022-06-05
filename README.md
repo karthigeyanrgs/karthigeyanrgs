@@ -18,7 +18,9 @@ This derived knowledge helped me create stabilized and consistent tools with the
 ---
 
 🧰 Tool Stack
-<img src= "https://cdn.worldvectorlogo.com/logos/python-4.svg">
+<img src= "https://cdn.worldvectorlogo.com/logos/python-4.svg" width="50" height="50">
+<img src= "https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="50">
+<img src= "https://cdn.worldvectorlogo.com/logos/git.svg" width="50" height="50">
 
 ---
 
