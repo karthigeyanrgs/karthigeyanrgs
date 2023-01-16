@@ -1,7 +1,7 @@
 name: Software update
 on:
   workflow_dispatch
-   branches: dev
+  branches: main
 jobs:
   new-release:
     steps:
