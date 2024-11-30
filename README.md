@@ -27,8 +27,6 @@ I started with core mechanical disciplines, finding my foot in fluid simulations
 
 <img src= "https://cdn.worldvectorlogo.com/logos/git.svg" width="50" height="50">
 
-![image](https://github.com/user-attachments/assets/dda1bb15-3c44-4684-a614-47fe204a1444)
-
 
 ---
 
