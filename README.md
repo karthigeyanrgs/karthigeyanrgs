@@ -4,7 +4,7 @@
 
 My professional endeavours have led me to be a fierce communicator and optimization advocate who finds home in a challenging environment which doesn’t entertain mediocrity or monotonicity. I find comfort in working on long term complex projects which lead to substantial growth of the company and in turn the world.
 
-I am currently motivated to bring robotics simulations closer to reality. Through Nvidia Isaac Sim, we are translating real world scenarios to the simulation framework and creating the near-perfect digital twins of the bots and their environments. I have eggs in several other baskets, namely:
+I am currently motivated to bring simulations closer to reality. Through Nvidia Isaac Sim, we are translating real world scenarios to the simulation framework and creating the near-perfect digital twins of the bots and their environments. I have eggs in several other baskets, namely:
 
 1. I automated the end-to-end upgrade process of linux kernel for Nvidia Jetson boards. This effort involved customizing device-tree files, tweaking configurations, writing bash scripts, referring datasheets and translating it to machine code. Through this project, I have understood the nitty gritties of building an operating system and customizing to one’s advantage.
 
